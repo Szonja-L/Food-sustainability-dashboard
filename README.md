@@ -8,7 +8,7 @@
 > **🔗 Live app → [food-sustainability-dashboard.streamlit.app](https://your-app-name.streamlit.app)**  
 > *(Replace with your actual Streamlit Cloud URL after deployment)*
 
-An interactive data visualisation dashboard exploring the environmental impact of 40 food products, built on the landmark **Poore & Nemecek (2018)** meta-analysis — the largest study of food systems ever conducted, spanning 38,700 farms across 119 countries.
+An interactive data visualisation dashboard exploring the environmental impact of 40 food products, built on the landmark **Poore & Nemecek (2018)** meta-analysis - the largest study of food systems ever conducted, spanning 38,700 farms across 119 countries.
 
 ---
 
@@ -17,7 +17,7 @@ An interactive data visualisation dashboard exploring the environmental impact o
 | Tab | What you can do |
 |-----|-----------------|
 | **🌍 Overview** | Ranked bar chart of all foods by any metric; animal vs. plant normalised comparison |
-| **🔬 Deep Dive** | Interactive bubble chart — map any two metrics against each other, bubble size = third metric; sortable full data table |
+| **🔬 Deep Dive** | Interactive bubble chart - map any two metrics against each other, bubble size = third metric; sortable full data table |
 | **🍽️ Meal Calculator** | Build a meal item-by-item, see GHG/land/water breakdown, compare against typical meal benchmarks, and get real-world context equivalents (driving km, phone charges, Netflix hours) |
 | **💡 Make a Change** | Curated swap cards (e.g. Beef → Lentils = −95% GHG); custom swap builder with weekly frequency and portion-size sliders; annual savings across all four metrics |
 
