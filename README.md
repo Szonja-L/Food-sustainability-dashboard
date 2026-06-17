@@ -5,8 +5,6 @@
 [![Plotly](https://img.shields.io/badge/Plotly-5.15%2B-3F4F75?logo=plotly&logoColor=white)](https://plotly.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e.svg)](LICENSE)
 
-> **🔗 Live app → [food-sustainability-dashboard.streamlit.app](https://your-app-name.streamlit.app)**  
-> *(Replace with your actual Streamlit Cloud URL after deployment)*
 
 An interactive data visualisation dashboard exploring the environmental impact of 40 food products, built on the landmark **Poore & Nemecek (2018)** meta-analysis - the largest study of food systems ever conducted, spanning 38,700 farms across 119 countries.
 
